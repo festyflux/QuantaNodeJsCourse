@@ -17,11 +17,11 @@ setInterval (() => {
 
 //Write a simple function
 
-let name;
 
-function greet() {
-    console.log (`Hello ${name}~)
+function greet (name) {
+    console.log('');
 }
+
 greet ("Sam");
 greet ("John");
 
