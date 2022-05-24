@@ -17,13 +17,13 @@ setInterval (() => {
 
 //Write a simple function
 
+//
 
 function greet (name) {
     console.log('');
 }
 
-greet ("Sam");
-greet ("John");
+
 
 
 
