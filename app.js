@@ -15,5 +15,15 @@ setInterval (() => {
     console.log('To stop me, press ctr + C');
 }, 7000);
 
+//Write a simple function
+
+let name;
+
+function greet() {
+    console.log (`Hello ${name}~)
+}
+greet ("Sam");
+greet ("John");
+
 
 
